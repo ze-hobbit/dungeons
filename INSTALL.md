@@ -69,7 +69,7 @@ If you skipped part 1, make sure you do step 3 to get the prerequired library li
 
 Go to [GitHub.com](https://github.com), register an account.
 
-Git is pre-installed on crunchbang but you need to configure it to use your newly created account, [steps are detailed here](https://help.github.com/articles/set-up-git](https://help.github.com/articles/set-up-git).
+Git is pre-installed on crunchbang but you need to configure it to use your newly created account, [steps are detailed here](https://help.github.com/articles/set-up-git).
 
 5.2 Fork DebianJoes repository
 ------------------------------
